@@ -1,0 +1,136 @@
+{
+	"version": "2",
+	"author": "The Illusion",
+	"authorURL": "https://github.com/Arkhorse",
+	"supportURL": "https://paypal.me/Arkhorse",
+	"mods": [
+		{
+			"type": "library",
+			"version": "1.0.2",
+			"name": "RadialMenuUtilities",
+			"displayName": "Radial Menu Utilities",
+			"author": "",
+			"previousAuthors": "ds5678",
+			"released": "",
+			"updated": "2023-05-12",
+			"downloadURL": "https://github.com/Arkhorse/RadialMenuUtilities/releases/download/latest/RadialMenuUtilities.dll",
+			"modURL": "https://github.com/Arkhorse/RadialMenuUtilities",
+			"description": "A utility mod that adds the ability for other mods to create custom radial menus.",
+			"tags": "",
+			"categories": [
+				"Gameplay"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [],
+			"dependencies": [
+				"KeyboardUtilities"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.16",
+				"mlversion": "0.6.1"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": [
+					"RadialMenuUtilities.dll"
+				]
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.16",
+			"name": "EnableStatusBarPercentages",
+			"displayName": "Enable Status Bar Percentages",
+			"author": "",
+			"previousAuthors": "zeobviouslyfakeacc",
+			"released": "2017-01-08",
+			"updated": "2023-05-12",
+			"downloadURL": "https://github.com/Arkhorse/EnableStatusBarPercentages/releases/download/latest/EnableStatusBarPercentages.dll",
+			"modURL": "https://github.com/Arkhorse/EnableStatusBarPercentages",
+			"description": "This mod re-enables some labels in the status / first aid screen that show a percentage value of how full the warmth, fatigue, thirst, hunger, and health status bars are.",
+			"tags": "",
+			"categories": [
+				"Quality of Life"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [
+				"https://github.com/Arkhorse/EnableStatusBarPercentages/blob/d431fdc7f942d81a818426a03080a5ff902b19ec/images/after.png",
+				"https://github.com/Arkhorse/EnableStatusBarPercentages/blob/d431fdc7f942d81a818426a03080a5ff902b19ec/images/before.png"
+			],
+			"dependencies": [],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.16",
+				"mlversion": "0.6.1"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": [
+					"EnableStatusBarPercentages.dll"
+				]
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "4.0.2",
+			"name": "Free-Look-In-Cars",
+			"displayName": "Free-Look-In-Cars",
+			"author": "",
+			"previousAuthors": "WulfMarius, zeobviouslyfakeacc",
+			"released": "2017-11-08",
+			"updated": "2023-05-10",
+			"downloadURL": "https://github.com/Arkhorse/Free-Look-In-Cars/releases/download/latest/Free-Look-In-Cars.dll",
+			"modURL": "https://github.com/Arkhorse/Free-Look-In-Cars",
+			"description": "Allows looking out of the back window in cars.",
+			"tags": "",
+			"categories": [
+				"Quality of Life"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [],
+			"dependencies": [],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.16",
+				"mlversion": "0.6.1"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": [
+					"Free-Look-In-Cars.dll"
+				]
+			},
+			"aliases": []
+		}
+	]
+}
