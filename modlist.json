@@ -13,7 +13,7 @@
 			"previousAuthors": "ds5678",
 			"released": "",
 			"updated": "2023-05-12",
-			"downloadURL": "https://github.com/Arkhorse/RadialMenuUtilities/releases/download/latest/RadialMenuUtilities.dll",
+			"downloadURL": "https://github.com/Arkhorse/RadialMenuUtilities/releases/latest/download/RadialMenuUtilities.dll",
 			"modURL": "https://github.com/Arkhorse/RadialMenuUtilities",
 			"description": "A utility mod that adds the ability for other mods to create custom radial menus.",
 			"tags": "",
@@ -56,7 +56,7 @@
 			"previousAuthors": "zeobviouslyfakeacc",
 			"released": "2017-01-08",
 			"updated": "2023-05-12",
-			"downloadURL": "https://github.com/Arkhorse/EnableStatusBarPercentages/releases/download/latest/EnableStatusBarPercentages.dll",
+			"downloadURL": "https://github.com/Arkhorse/EnableStatusBarPercentages/releases/latest/download/EnableStatusBarPercentages.dll",
 			"modURL": "https://github.com/Arkhorse/EnableStatusBarPercentages",
 			"description": "This mod re-enables some labels in the status / first aid screen that show a percentage value of how full the warmth, fatigue, thirst, hunger, and health status bars are.",
 			"tags": "",
@@ -100,7 +100,7 @@
 			"previousAuthors": "WulfMarius, zeobviouslyfakeacc",
 			"released": "2017-11-08",
 			"updated": "2023-05-10",
-			"downloadURL": "https://github.com/Arkhorse/Free-Look-In-Cars/releases/download/latest/Free-Look-In-Cars.dll",
+			"downloadURL": "https://github.com/Arkhorse/Free-Look-In-Cars/releases/latest/download/Free-Look-In-Cars.dll",
 			"modURL": "https://github.com/Arkhorse/Free-Look-In-Cars",
 			"description": "Allows looking out of the back window in cars.",
 			"tags": "",
@@ -128,6 +128,182 @@
 				"enable": true,
 				"downloads": [
 					"Free-Look-In-Cars.dll"
+				]
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.0.4",
+			"name": "FuelManager",
+			"displayName": "Fuel Manager",
+			"author": "",
+			"previousAuthors": "",
+			"released": "2023-05-12",
+			"updated": "2023-05-22",
+			"downloadURL": "https://github.com/Arkhorse/FuelManager/releases/latest/download/FuelManager.zip",
+			"modURL": "https://github.com/Arkhorse/FuelManager",
+			"description": "* Fuel containers do not automatically vanish when they are empty.\n* Fuel containers do not automatically appear when they are needed.\n* If an action produces (e.g. cooking fish) or retrieves (e.g. harvesting a Kerosene Lamp) fuel and there is no appropriate container with sufficient capacity in the inventory, that fuel will be lost. You will need to manage your empty fuel containers!\n* The fuel in the Storm Lantern can be drained again.\n* Transfer fuel between fuel containers.\n* A custom radial menu has been added to make placing fuel containers easier. You can change the key or disable the menu in the Mod Settings.\n* (NEW) Ability to harvest and repair the Jerry Can and the Lamp Fuel items",
+			"tags": "",
+			"categories": [
+				"Quality of Life",
+				"Gameplay"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [],
+			"dependencies": [
+				"ModSettings",
+				"ModComponent",
+				"KeyboardUtilities",
+				"LocalizationUtilities",
+				"GearSpawner",
+				"CraftingRevisions",
+				"RadialMenuUtilities"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.15",
+				"mlversion": "0.6.1"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": [
+					"FuelManager.dll",
+					"FuelManager.modcomponent"
+				]
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.1.0",
+			"name": "MapManager",
+			"displayName": "Map Manager",
+			"author": "",
+			"previousAuthors": "",
+			"released": "2023-05-27",
+			"updated": "2023-05-27",
+			"downloadURL": "https://github.com/Arkhorse/MapManager/releases/latest/download/MapManager.dll",
+			"modURL": "https://github.com/Arkhorse/MapManager",
+			"description": "Show Player Arrow\nCenter on player\nReveal Map\nSurvey Mapping Options:\n- Modify Range\n- Modify Surveying Time\n- Automatic use of Polaroid's (even if you don't have them)",
+			"tags": "",
+			"categories": [
+				"Quality of Life",
+				"Gameplay"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.15",
+				"mlversion": "0.6.1"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": [
+					"MapManager.dll"
+				]
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "2.0.1",
+			"name": "WeaponCrosshair",
+			"displayName": "Weapon Crosshair",
+			"author": "",
+			"previousAuthors": "ds5678",
+			"released": "2023-05-27",
+			"updated": "2023-05-27",
+			"downloadURL": "https://github.com/Arkhorse/WeaponCrosshair/releases/latest/download/WeaponCrosshair.dll",
+			"modURL": "https://github.com/Arkhorse/WeaponCrosshair",
+			"description": "Adds the ability to turn on the crosshair while aiming",
+			"tags": "",
+			"categories": [
+				"Quality of Life",
+				"Gameplay"
+			],
+			"gameversion": [],
+			"images": [],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.15",
+				"mlversion": "0.6.1"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": [
+					"WeaponCrosshair.dll"
+				]
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.0.1",
+			"name": "ExtremeTempDrop",
+			"displayName": "Extreme Temperature Drop",
+			"author": "",
+			"previousAuthors": "ds5678",
+			"released": "2023-05-27",
+			"updated": "2023-05-27",
+			"downloadURL": "https://github.com/Arkhorse/ExtremeTempDrop/releases/latest/download/ExtremeTempDrop.dll",
+			"modURL": "https://github.com/Arkhorse/ExtremeTempDrop",
+			"description": "Alters temperature degradation",
+			"tags": "",
+			"categories": [
+				"Gameplay"
+			],
+			"gameversion": [],
+			"images": [],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.15",
+				"mlversion": "0.6.1"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": [
+					"ExtremeTempDrop.dll"
 				]
 			},
 			"aliases": []
