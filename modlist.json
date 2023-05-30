@@ -68,8 +68,8 @@
 				"tftft"
 			],
 			"images": [
-				"https://github.com/Arkhorse/EnableStatusBarPercentages/blob/d431fdc7f942d81a818426a03080a5ff902b19ec/images/after.png",
-				"https://github.com/Arkhorse/EnableStatusBarPercentages/blob/d431fdc7f942d81a818426a03080a5ff902b19ec/images/before.png"
+				"https://raw.githubusercontent.com/Arkhorse/EnableStatusBarPercentages/d431fdc7f942d81a818426a03080a5ff902b19ec/images/after.png",
+				"https://raw.githubusercontent.com/Arkhorse/EnableStatusBarPercentages/d431fdc7f942d81a818426a03080a5ff902b19ec/images/before.png"
 			],
 			"dependencies": [],
 			"status": {
