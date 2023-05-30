@@ -42,7 +42,7 @@
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"RadialMenuUtilities.dll"
+					"https://github.com/Arkhorse/RadialMenuUtilities/releases/latest/download/RadialMenuUtilities.dll"
 				]
 			},
 			"aliases": []
@@ -86,7 +86,7 @@
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"EnableStatusBarPercentages.dll"
+					"https://github.com/Arkhorse/EnableStatusBarPercentages/releases/latest/download/EnableStatusBarPercentages.dll"
 				]
 			},
 			"aliases": [
@@ -129,7 +129,7 @@
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"Free-Look-In-Cars.dll"
+					"https://github.com/Arkhorse/Free-Look-In-Cars/releases/latest/download/Free-Look-In-Cars.dll"
 				]
 			},
 			"aliases": [
@@ -181,8 +181,8 @@
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"FuelManager.dll",
-					"FuelManager.modcomponent"
+					"https://github.com/Arkhorse/FuelManager/releases/latest/download/FuelManager.dll",
+					"https://github.com/Arkhorse/FuelManager/releases/latest/download/FuelManager.modcomponent"
 				]
 			},
 			"aliases": []
@@ -226,7 +226,7 @@
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"MapManager.dll"
+					"https://github.com/Arkhorse/MapManager/releases/latest/download/MapManager.dll"
 				]
 			},
 			"aliases": []
@@ -267,7 +267,7 @@
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"WeaponCrosshair.dll"
+					"https://github.com/Arkhorse/WeaponCrosshair/releases/latest/download/WeaponCrosshair.dll"
 				]
 			},
 			"aliases": [
@@ -309,7 +309,7 @@
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"ExtremeTempDrop.dll"
+					"https://github.com/Arkhorse/ExtremeTempDrop/releases/latest/download/ExtremeTempDrop.dll"
 				]
 			},
 			"aliases": [
