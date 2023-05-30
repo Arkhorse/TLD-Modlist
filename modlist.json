@@ -50,8 +50,8 @@
 		{
 			"type": "mod",
 			"version": "1.16",
-			"name": "EnableStatusBarPercentages",
-			"displayName": "Enable Status Bar Percentages",
+			"name": "StatusBarPercentages",
+			"displayName": "Status Bar Percentages",
 			"author": "",
 			"previousAuthors": "zeobviouslyfakeacc",
 			"released": "2017-01-08",
@@ -89,20 +89,22 @@
 					"EnableStatusBarPercentages.dll"
 				]
 			},
-			"aliases": []
+			"aliases": [
+				"EnableStatusBarPercentages"
+			]
 		},
 		{
 			"type": "mod",
 			"version": "4.0.2",
-			"name": "Free-Look-In-Cars",
-			"displayName": "Free-Look-In-Cars",
+			"name": "FreeLookInCars",
+			"displayName": "Free Look in Cars",
 			"author": "",
 			"previousAuthors": "WulfMarius, zeobviouslyfakeacc",
 			"released": "2017-11-08",
 			"updated": "2023-05-10",
 			"downloadURL": "https://github.com/Arkhorse/Free-Look-In-Cars/releases/latest/download/Free-Look-In-Cars.dll",
 			"modURL": "https://github.com/Arkhorse/Free-Look-In-Cars",
-			"description": "Allows looking out of the back window in cars.",
+			"description": "Allows looking out of the back window in cars as well as fully look up and down. Looking back is limited slightly to prevent the camera from locking",
 			"tags": "",
 			"categories": [
 				"Quality of Life"
@@ -130,7 +132,9 @@
 					"Free-Look-In-Cars.dll"
 				]
 			},
-			"aliases": []
+			"aliases": [
+				"Free-Look-In-Cars"
+			]
 		},
 		{
 			"type": "mod",
@@ -230,7 +234,7 @@
 		{
 			"type": "mod",
 			"version": "2.0.1",
-			"name": "WeaponCrosshair",
+			"name": "CrosshairsForWeapons",
 			"displayName": "Weapon Crosshair",
 			"author": "",
 			"previousAuthors": "ds5678",
@@ -238,7 +242,7 @@
 			"updated": "2023-05-27",
 			"downloadURL": "https://github.com/Arkhorse/WeaponCrosshair/releases/latest/download/WeaponCrosshair.dll",
 			"modURL": "https://github.com/Arkhorse/WeaponCrosshair",
-			"description": "Adds the ability to turn on the crosshair while aiming",
+			"description": "Adds the ability to turn on the crosshair while aiming Rifles, Rocks, Bows and the Revolver",
 			"tags": "",
 			"categories": [
 				"Quality of Life",
@@ -266,12 +270,14 @@
 					"WeaponCrosshair.dll"
 				]
 			},
-			"aliases": []
+			"aliases": [
+				"WeaponCrosshair"
+			]
 		},
 		{
 			"type": "mod",
 			"version": "1.0.1",
-			"name": "ExtremeTempDrop",
+			"name": "ExtremeTemperatureDrop",
 			"displayName": "Extreme Temperature Drop",
 			"author": "",
 			"previousAuthors": "ds5678",
@@ -306,7 +312,9 @@
 					"ExtremeTempDrop.dll"
 				]
 			},
-			"aliases": []
+			"aliases": [
+				"ExtremeTempDrop"
+			]
 		}
 	]
 }
