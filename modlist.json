@@ -5,6 +5,49 @@
 	"supportURL": "https://paypal.me/Arkhorse",
 	"mods": [
 		{
+			"type": "mod",
+			"version": "1.1.001",
+			"name": "ExtraGraphicsSettings",
+			"displayName": "Extra Graphics Settings",
+			"author": "",
+			"previousAuthors": "",
+			"released": "2023/07/15",
+			"updated": "",
+			"downloadURL": "https://github.com/Arkhorse/ExtraGraphicsSettings/releases/latest/download/ExtraGraphicsSettings.dll",
+			"modURL": "https://github.com/Arkhorse/ExtraGraphicsSettings",
+			"description": "A mod that adds more options for graphical things.",
+			"tags": "",
+			"categories": [
+				"Gameplay"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "This mod makes Disable Chromatic Aberration, Enable Status Bar Percentages, Free Look In Cars and Weapon Crosshair obsolete",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.16",
+				"mlversion": "0.6.1"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": [
+					"https://github.com/Arkhorse/ExtraGraphicsSettings/releases/latest/download/ExtraGraphicsSettings.dll"
+				]
+			},
+			"aliases": []
+		},
+		{
 			"type": "library",
 			"version": "1.0.2",
 			"name": "RadialMenuUtilities",
@@ -46,95 +89,6 @@
 				]
 			},
 			"aliases": []
-		},
-		{
-			"type": "mod",
-			"version": "1.16",
-			"name": "StatusBarPercentages",
-			"displayName": "Status Bar Percentages",
-			"author": "",
-			"previousAuthors": "zeobviouslyfakeacc",
-			"released": "2017-01-08",
-			"updated": "2023-05-12",
-			"downloadURL": "https://github.com/Arkhorse/EnableStatusBarPercentages/releases/latest/download/EnableStatusBarPercentages.dll",
-			"modURL": "https://github.com/Arkhorse/EnableStatusBarPercentages",
-			"description": "This mod re-enables some labels in the status / first aid screen that show a percentage value of how full the warmth, fatigue, thirst, hunger, and health status bars are.",
-			"tags": "",
-			"categories": [
-				"Quality of Life"
-			],
-			"gameversion": [
-				"vanilla",
-				"tftft"
-			],
-			"images": [
-				"https://raw.githubusercontent.com/Arkhorse/EnableStatusBarPercentages/d431fdc7f942d81a818426a03080a5ff902b19ec/images/after.png",
-				"https://raw.githubusercontent.com/Arkhorse/EnableStatusBarPercentages/d431fdc7f942d81a818426a03080a5ff902b19ec/images/before.png"
-			],
-			"dependencies": [],
-			"status": {
-				"working": true,
-				"beta": false,
-				"patchnotes": "",
-				"notes": "",
-				"issues": ""
-			},
-			"testedon": {
-				"tldversion": "2.16",
-				"mlversion": "0.6.1"
-			},
-			"updater": {
-				"enable": true,
-				"downloads": [
-					"https://github.com/Arkhorse/EnableStatusBarPercentages/releases/latest/download/EnableStatusBarPercentages.dll"
-				]
-			},
-			"aliases": [
-				"EnableStatusBarPercentages"
-			]
-		},
-		{
-			"type": "mod",
-			"version": "4.0.2",
-			"name": "FreeLookInCars",
-			"displayName": "Free Look in Cars",
-			"author": "",
-			"previousAuthors": "WulfMarius, zeobviouslyfakeacc",
-			"released": "2017-11-08",
-			"updated": "2023-05-10",
-			"downloadURL": "https://github.com/Arkhorse/Free-Look-In-Cars/releases/latest/download/Free-Look-In-Cars.dll",
-			"modURL": "https://github.com/Arkhorse/Free-Look-In-Cars",
-			"description": "Allows looking out of the back window in cars as well as fully look up and down. Looking back is limited slightly to prevent the camera from locking",
-			"tags": "",
-			"categories": [
-				"Quality of Life"
-			],
-			"gameversion": [
-				"vanilla",
-				"tftft"
-			],
-			"images": [],
-			"dependencies": [],
-			"status": {
-				"working": true,
-				"beta": false,
-				"patchnotes": "",
-				"notes": "",
-				"issues": ""
-			},
-			"testedon": {
-				"tldversion": "2.16",
-				"mlversion": "0.6.1"
-			},
-			"updater": {
-				"enable": true,
-				"downloads": [
-					"https://github.com/Arkhorse/Free-Look-In-Cars/releases/latest/download/Free-Look-In-Cars.dll"
-				]
-			},
-			"aliases": [
-				"Free-Look-In-Cars"
-			]
 		},
 		{
 			"type": "mod",
@@ -230,49 +184,6 @@
 				]
 			},
 			"aliases": []
-		},
-		{
-			"type": "mod",
-			"version": "2.0.1",
-			"name": "CrosshairsForWeapons",
-			"displayName": "Weapon Crosshair",
-			"author": "",
-			"previousAuthors": "ds5678",
-			"released": "2023-05-27",
-			"updated": "2023-05-27",
-			"downloadURL": "https://github.com/Arkhorse/WeaponCrosshair/releases/latest/download/WeaponCrosshair.dll",
-			"modURL": "https://github.com/Arkhorse/WeaponCrosshair",
-			"description": "Adds the ability to turn on the crosshair while aiming Rifles, Rocks, Bows and the Revolver",
-			"tags": "",
-			"categories": [
-				"Quality of Life",
-				"Gameplay"
-			],
-			"gameversion": [],
-			"images": [],
-			"dependencies": [
-				"ModSettings"
-			],
-			"status": {
-				"working": true,
-				"beta": false,
-				"patchnotes": "",
-				"notes": "",
-				"issues": ""
-			},
-			"testedon": {
-				"tldversion": "2.15",
-				"mlversion": "0.6.1"
-			},
-			"updater": {
-				"enable": true,
-				"downloads": [
-					"https://github.com/Arkhorse/WeaponCrosshair/releases/latest/download/WeaponCrosshair.dll"
-				]
-			},
-			"aliases": [
-				"WeaponCrosshair"
-			]
 		},
 		{
 			"type": "mod",
