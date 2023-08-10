@@ -49,13 +49,13 @@
 		},
 		{
 			"type": "library",
-			"version": "1.0.2",
+			"version": "1.1.1",
 			"name": "RadialMenuUtilities",
 			"displayName": "Radial Menu Utilities",
 			"author": "",
 			"previousAuthors": "ds5678",
 			"released": "",
-			"updated": "2023-05-12",
+			"updated": "2023-07-10",
 			"downloadURL": "https://github.com/Arkhorse/RadialMenuUtilities/releases/latest/download/RadialMenuUtilities.dll",
 			"modURL": "https://github.com/Arkhorse/RadialMenuUtilities",
 			"description": "A utility mod that adds the ability for other mods to create custom radial menus.",
@@ -123,7 +123,7 @@
 			],
 			"status": {
 				"working": true,
-				"beta": true,
+				"beta": false,
 				"patchnotes": "",
 				"notes": "",
 				"issues": ""
