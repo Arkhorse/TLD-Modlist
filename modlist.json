@@ -92,7 +92,7 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.2.2",
+			"version": "1.2.3",
 			"name": "FuelManager",
 			"displayName": "Fuel Manager",
 			"author": "",
@@ -124,7 +124,7 @@
 			"status": {
 				"working": true,
 				"beta": false,
-				"patchnotes": "",
+				"patchnotes": "Fixed repair and harvest ... AGAIN",
 				"notes": "",
 				"issues": ""
 			},
