@@ -92,13 +92,13 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.2.3",
+			"version": "1.2.4",
 			"name": "FuelManager",
 			"displayName": "Fuel Manager",
 			"author": "",
 			"previousAuthors": "",
 			"released": "2023-05-12",
-			"updated": "2023-07-09",
+			"updated": "2023-08-17",
 			"downloadURL": "https://github.com/Arkhorse/FuelManager/releases",
 			"modURL": "https://github.com/Arkhorse/FuelManager",
 			"description": "* Fuel containers do not automatically vanish when they are empty.\n* Fuel containers do not automatically appear when they are needed.\n* If an action produces (e.g. cooking fish) or retrieves (e.g. harvesting a Kerosene Lamp) fuel and there is no appropriate container with sufficient capacity in the inventory, that fuel will be lost. You will need to manage your empty fuel containers!\n* The fuel in the Storm Lantern can be drained again.\n* Transfer fuel between fuel containers.\n* A custom radial menu has been added to make placing fuel containers easier. You can change the key or disable the menu in the Mod Settings.\n* (NEW) Ability to harvest and repair the Jerry Can and the Lamp Fuel items",
@@ -124,7 +124,7 @@
 			"status": {
 				"working": true,
 				"beta": false,
-				"patchnotes": "Fixed repair and harvest ... AGAIN",
+				"patchnotes": "Fixed repair and harvest ... AGAIN ... AGAIN",
 				"notes": "",
 				"issues": ""
 			},
