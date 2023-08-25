@@ -45,7 +45,12 @@
 					"https://github.com/Arkhorse/ExtraGraphicsSettings/releases/latest/download/ExtraGraphicsSettings.dll"
 				]
 			},
-			"aliases": []
+			"aliases": [
+				"DisableVignette",
+				"EnableStatusBarPercentages",
+				"FreeLookInCars",
+				"WeaponCrosshair"
+			]
 		},
 		{
 			"type": "library",
