@@ -141,7 +141,7 @@
 				"mlversion": "0.6.1"
 			},
 			"updater": {
-				"enable": true,
+				"enable": false,
 				"downloads": [
 					"https://github.com/Arkhorse/FuelManager/releases/latest/download/FuelManager.dll",
 					"https://github.com/Arkhorse/FuelManager/releases/latest/download/FuelManager.modcomponent"
