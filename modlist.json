@@ -126,14 +126,14 @@
 				"beta": false,
 				"patchnotes": "Fixed repair and harvest ... AGAIN ... AGAIN",
 				"notes": "",
-				"issues": ""
+				"issues": "VANILLA ITEMS ONLY: Repair and harvest can get bugged out. Make sure to choose the tool that makes sense for whatever action you intend on doing"
 			},
 			"testedon": {
 				"tldversion": "2.22",
 				"mlversion": "0.6.1"
 			},
 			"updater": {
-				"enable": false,
+				"enable": true,
 				"downloads": [
 					"https://github.com/Arkhorse/FuelManager/releases/latest/download/FuelManager.dll",
 					"https://github.com/Arkhorse/FuelManager/releases/latest/download/FuelManager.modcomponent"
