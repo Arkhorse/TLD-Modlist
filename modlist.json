@@ -258,7 +258,7 @@
 			],
 			"gameversion": [],
 			"images": [
-				"https://github.com/Arkhorse/AuroraMonitor/raw/main/images/BleakInlet-Pensive-Lookout-Colours.png" 
+				"https://raw.githubusercontent.com/Arkhorse/AuroraMonitor/raw/main/images/BleakInlet-Pensive-Lookout-Colours.png" 
 			],
 			"dependencies": [
 				"ModSettings"
