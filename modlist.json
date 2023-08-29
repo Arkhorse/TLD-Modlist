@@ -236,6 +236,49 @@
 			"aliases": [
 				"ExtremeTempDrop"
 			]
+		},
+		{
+			"type": "mod",
+			"version": "1.0.0",
+			"name": "AuroraMonitor",
+			"displayName": "Aurora Monitor",
+			"author": "",
+			"previousAuthors": "",
+			"released": "2023-08-29",
+			"updated": "2023-08-29",
+			"downloadURL": "https://github.com/Arkhorse/AuroraMonitor/releases/latest/download/AuroraMonitor.dll",
+			"modURL": "https://github.com/Arkhorse/AuroraMonitor",
+			"description": "A WIP mod that currently allows you to manage Aurorae and will show you a notification when the weather changes",
+			"tags": "",
+			"categories": [
+				"Quality of Life",
+				"Gameplay",
+				"Graphics",
+				"Utility Mod"
+			],
+			"gameversion": [],
+			"images": [
+				"https://github.com/Arkhorse/AuroraMonitor/blob/d9bf8c0b651ff39f666ee99914e69c1a784d0670/images/BleakInlet%20-%20Pensive%20Lookout%20-%20Cinimatic%20Colours.png"
+			],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "This mod will eventually permit management of all weather",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.22",
+				"mlversion": "0.6.1"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
 		}
 	]
 }
