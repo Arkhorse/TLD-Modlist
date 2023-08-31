@@ -301,7 +301,7 @@
 				"vanilla"
 			],
 			"images": [
-				"https://raw.githubusercontent.com/Arkhorse/FasterHarvesting/Images/thumbnail.png"
+				"https://raw.githubusercontent.com/Arkhorse/FasterHarvesting/Images/thumbnail.jpg"
 			],
 			"dependencies": [
 				"ModSettings"
