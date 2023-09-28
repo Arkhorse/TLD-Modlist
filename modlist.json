@@ -97,17 +97,17 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.2.4",
+			"version": "1.2.5",
 			"name": "FuelManager",
 			"displayName": "Fuel Manager",
 			"author": "",
 			"previousAuthors": "ds5678",
 			"released": "2023-05-12",
-			"updated": "2023-08-17",
+			"updated": "2023-09-28",
 			"downloadURL": "https://github.com/Arkhorse/FuelManager/releases",
 			"modURL": "https://github.com/Arkhorse/FuelManager",
 			"description": "Fuel Manager adds QOL features to assist with managing various fuel items. This includes all features of Better-Fuel-Management",
-			"tags": "",
+			"tags": "Better-Fuel-Management",
 			"categories": [
 				"Quality of Life",
 				"Gameplay",
@@ -126,18 +126,17 @@
 				"KeyboardUtilities",
 				"LocalizationUtilities",
 				"GearSpawner",
-				"CraftingRevisions",
-				"RadialMenuUtilities"
+				"CraftingRevisions"
 			],
 			"status": {
 				"working": true,
 				"beta": false,
-				"patchnotes": "Fixed repair and harvest ... AGAIN ... AGAIN",
+				"patchnotes": "Your now only able to harvest vanilla fuel containers until I can find a proper solution to the issues",
 				"notes": "",
-				"issues": "VANILLA ITEMS ONLY: Repair and harvest can get bugged out. Make sure to choose the tool that makes sense for whatever action you intend on doing"
+				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.22",
+				"tldversion": "2.23",
 				"mlversion": "0.6.1"
 			},
 			"updater": {
