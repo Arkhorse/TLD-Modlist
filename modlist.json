@@ -97,13 +97,13 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.2.5",
+			"version": "1.2.6",
 			"name": "FuelManager",
 			"displayName": "Fuel Manager",
 			"author": "",
 			"previousAuthors": "ds5678",
 			"released": "2023-05-12",
-			"updated": "2023-09-28",
+			"updated": "2023-10-02",
 			"downloadURL": "https://github.com/Arkhorse/FuelManager/releases",
 			"modURL": "https://github.com/Arkhorse/FuelManager",
 			"description": "Fuel Manager adds QOL features to assist with managing various fuel items. This includes all features of Better-Fuel-Management",
@@ -131,7 +131,7 @@
 			"status": {
 				"working": true,
 				"beta": false,
-				"patchnotes": "Your now only able to harvest vanilla fuel containers until I can find a proper solution to the issues",
+				"patchnotes": "Removed RMU properly",
 				"notes": "",
 				"issues": ""
 			},
@@ -140,7 +140,7 @@
 				"mlversion": "0.6.1"
 			},
 			"updater": {
-				"enable": false,
+				"enable": true,
 				"downloads": [
 					"https://github.com/Arkhorse/FuelManager/releases/latest/download/FuelManager.dll",
 					"https://github.com/Arkhorse/FuelManager/releases/latest/download/FuelManager.modcomponent"
