@@ -321,6 +321,48 @@
 				"downloads": []
 			},
 			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.0.0",
+			"name": "Sprainkle",
+			"displayName": "Sprainkle",
+			"author": "",
+			"previousAuthors": "",
+			"released": "2023-10-03",
+			"updated": "2023-10-03",
+			"downloadURL": "https://github.com/Arkhorse/Sprainkle/releases/latest/download/Sprainkle.dll",
+			"modURL": "https://github.com/Arkhorse/Sprainkle",
+			"description": "A new and improved mod that entirely replaces the old ankle sprain mod. This mod contains separate settings for ankle and wrist sprains as well as settings for general sprains",
+			"tags": "Sprain, ankle, wrist",
+			"categories": [
+				"Quality of Life",
+				"Gameplay"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.23",
+				"mlversion": ""
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
 		}
 	]
 }
