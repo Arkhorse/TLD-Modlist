@@ -6,6 +6,49 @@
 	"mods": [
 		{
 			"type": "mod",
+			"version": "1.0.0",
+			"name": "AuroraMonitor",
+			"displayName": "Aurora Monitor",
+			"author": "",
+			"previousAuthors": "",
+			"released": "2023-08-29",
+			"updated": "2023-10-02",
+			"downloadURL": "https://github.com/Arkhorse/AuroraMonitor/releases/latest/download/AuroraMonitor.dll",
+			"modURL": "https://github.com/Arkhorse/AuroraMonitor",
+			"description": "A WIP mod that currently allows you to manage Aurorae and will show you a notification when the weather changes",
+			"tags": "",
+			"categories": [
+				"Quality of Life",
+				"Gameplay",
+				"Graphics",
+				"Utility Mod"
+			],
+			"gameversion": [],
+			"images": [
+				"https://raw.githubusercontent.com/Arkhorse/AuroraMonitor/raw/main/images/BleakInlet-Pensive-Lookout-Colours.png"
+			],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "This mod will eventually permit management of all weather",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.23",
+				"mlversion": "0.6.1"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
 			"version": "1.1.001",
 			"name": "ExtraGraphicsSettings",
 			"displayName": "Extra Graphics Settings",
@@ -53,45 +96,87 @@
 			]
 		},
 		{
-			"type": "library",
-			"version": "1.1.1",
-			"name": "RadialMenuUtilities",
-			"displayName": "Radial Menu Utilities",
+			"type": "mod",
+			"version": "1.0.1",
+			"name": "ExtremeTemperatureDrop",
+			"displayName": "Extreme Temperature Drop",
 			"author": "",
 			"previousAuthors": "ds5678",
-			"released": "",
-			"updated": "2023-10-02",
-			"downloadURL": "https://github.com/Arkhorse/RadialMenuUtilities/releases/latest/download/RadialMenuUtilities.dll",
-			"modURL": "https://github.com/Arkhorse/RadialMenuUtilities",
-			"description": "A utility mod that adds the ability for other mods to create custom radial menus.",
+			"released": "2023-05-27",
+			"updated": "2023-05-27",
+			"downloadURL": "https://github.com/Arkhorse/ExtremeTempDrop/releases/latest/download/ExtremeTempDrop.dll",
+			"modURL": "https://github.com/Arkhorse/ExtremeTempDrop",
+			"description": "Alters temperature degradation",
 			"tags": "",
 			"categories": [
 				"Gameplay"
 			],
-			"gameversion": [
-				"vanilla",
-				"tftft"
-			],
+			"gameversion": [],
 			"images": [],
 			"dependencies": [
-				"KeyboardUtilities"
+				"ModSettings"
 			],
 			"status": {
-				"working": false,
+				"working": true,
 				"beta": false,
 				"patchnotes": "",
 				"notes": "",
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.22",
+				"tldversion": "2.17",
 				"mlversion": "0.6.1"
 			},
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/Arkhorse/RadialMenuUtilities/releases/latest/download/RadialMenuUtilities.dll"
+					"https://github.com/Arkhorse/ExtremeTempDrop/releases/latest/download/ExtremeTempDrop.dll"
 				]
+			},
+			"aliases": [
+				"ExtremeTempDrop"
+			]
+		},
+		{
+			"type": "mod",
+			"version": "1.0.0",
+			"name": "FasterHarvesting",
+			"displayName": "Faster Harvesting",
+			"author": "",
+			"previousAuthors": "",
+			"released": "2023-08-31",
+			"updated": "2023-10-02",
+			"downloadURL": "https://github.com/Arkhorse/FasterHarvesting/releases/latest/download/FasterHarvesting.dll",
+			"modURL": "https://github.com/Arkhorse/FasterHarvesting",
+			"description": "Adds customization options to change the time it takes to harvest things",
+			"tags": "",
+			"categories": [
+				"Quality of Life",
+				"Gameplay"
+			],
+			"gameversion": [
+				"vanilla"
+			],
+			"images": [
+				"https://raw.githubusercontent.com/Arkhorse/FasterHarvesting/Images/thumbnail.jpg"
+			],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.23",
+				"mlversion": "0.6.1"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
 			},
 			"aliases": []
 		},
@@ -196,134 +281,6 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.0.1",
-			"name": "ExtremeTemperatureDrop",
-			"displayName": "Extreme Temperature Drop",
-			"author": "",
-			"previousAuthors": "ds5678",
-			"released": "2023-05-27",
-			"updated": "2023-05-27",
-			"downloadURL": "https://github.com/Arkhorse/ExtremeTempDrop/releases/latest/download/ExtremeTempDrop.dll",
-			"modURL": "https://github.com/Arkhorse/ExtremeTempDrop",
-			"description": "Alters temperature degradation",
-			"tags": "",
-			"categories": [
-				"Gameplay"
-			],
-			"gameversion": [],
-			"images": [],
-			"dependencies": [
-				"ModSettings"
-			],
-			"status": {
-				"working": true,
-				"beta": false,
-				"patchnotes": "",
-				"notes": "",
-				"issues": ""
-			},
-			"testedon": {
-				"tldversion": "2.17",
-				"mlversion": "0.6.1"
-			},
-			"updater": {
-				"enable": true,
-				"downloads": [
-					"https://github.com/Arkhorse/ExtremeTempDrop/releases/latest/download/ExtremeTempDrop.dll"
-				]
-			},
-			"aliases": [
-				"ExtremeTempDrop"
-			]
-		},
-		{
-			"type": "mod",
-			"version": "1.0.0",
-			"name": "AuroraMonitor",
-			"displayName": "Aurora Monitor",
-			"author": "",
-			"previousAuthors": "",
-			"released": "2023-08-29",
-			"updated": "2023-10-02",
-			"downloadURL": "https://github.com/Arkhorse/AuroraMonitor/releases/latest/download/AuroraMonitor.dll",
-			"modURL": "https://github.com/Arkhorse/AuroraMonitor",
-			"description": "A WIP mod that currently allows you to manage Aurorae and will show you a notification when the weather changes",
-			"tags": "",
-			"categories": [
-				"Quality of Life",
-				"Gameplay",
-				"Graphics",
-				"Utility Mod"
-			],
-			"gameversion": [],
-			"images": [
-				"https://raw.githubusercontent.com/Arkhorse/AuroraMonitor/raw/main/images/BleakInlet-Pensive-Lookout-Colours.png"
-			],
-			"dependencies": [
-				"ModSettings"
-			],
-			"status": {
-				"working": true,
-				"beta": false,
-				"patchnotes": "",
-				"notes": "This mod will eventually permit management of all weather",
-				"issues": ""
-			},
-			"testedon": {
-				"tldversion": "2.23",
-				"mlversion": "0.6.1"
-			},
-			"updater": {
-				"enable": true,
-				"downloads": []
-			},
-			"aliases": []
-		},
-		{
-			"type": "mod",
-			"version": "1.0.0",
-			"name": "FasterHarvesting",
-			"displayName": "Faster Harvesting",
-			"author": "",
-			"previousAuthors": "",
-			"released": "2023-08-31",
-			"updated": "2023-10-02",
-			"downloadURL": "https://github.com/Arkhorse/FasterHarvesting/releases/latest/download/FasterHarvesting.dll",
-			"modURL": "https://github.com/Arkhorse/FasterHarvesting",
-			"description": "Adds customization options to change the time it takes to harvest things",
-			"tags": "",
-			"categories": [
-				"Quality of Life",
-				"Gameplay"
-			],
-			"gameversion": [
-				"vanilla"
-			],
-			"images": [
-				"https://raw.githubusercontent.com/Arkhorse/FasterHarvesting/Images/thumbnail.jpg"
-			],
-			"dependencies": [
-				"ModSettings"
-			],
-			"status": {
-				"working": true,
-				"beta": false,
-				"patchnotes": "",
-				"notes": "",
-				"issues": ""
-			},
-			"testedon": {
-				"tldversion": "2.23",
-				"mlversion": "0.6.1"
-			},
-			"updater": {
-				"enable": true,
-				"downloads": []
-			},
-			"aliases": []
-		},
-		{
-			"type": "mod",
 			"version": "1.0.0",
 			"name": "Sprainkle",
 			"displayName": "Sprainkle",
@@ -356,11 +313,54 @@
 			},
 			"testedon": {
 				"tldversion": "2.23",
-				"mlversion": ""
+				"mlversion": "0.6.1"
 			},
 			"updater": {
 				"enable": true,
 				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "library",
+			"version": "1.1.1",
+			"name": "RadialMenuUtilities",
+			"displayName": "Radial Menu Utilities",
+			"author": "",
+			"previousAuthors": "ds5678",
+			"released": "",
+			"updated": "2023-10-02",
+			"downloadURL": "https://github.com/Arkhorse/RadialMenuUtilities/releases/latest/download/RadialMenuUtilities.dll",
+			"modURL": "https://github.com/Arkhorse/RadialMenuUtilities",
+			"description": "A utility mod that adds the ability for other mods to create custom radial menus.",
+			"tags": "",
+			"categories": [
+				"Gameplay"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [],
+			"dependencies": [
+				"KeyboardUtilities"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.22",
+				"mlversion": "0.6.1"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": [
+					"https://github.com/Arkhorse/RadialMenuUtilities/releases/latest/download/RadialMenuUtilities.dll"
+				]
 			},
 			"aliases": []
 		}
