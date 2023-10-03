@@ -1,0 +1,48 @@
+{
+	"type": "mod",
+	"version": "1.1.001",
+	"name": "ExtraGraphicsSettings",
+	"displayName": "Extra Graphics Settings",
+	"author": "",
+	"previousAuthors": "",
+	"released": "2023/07/15",
+	"updated": "2023-10-02",
+	"downloadURL": "https://github.com/Arkhorse/ExtraGraphicsSettings/releases/latest/download/ExtraGraphicsSettings.dll",
+	"modURL": "https://github.com/Arkhorse/ExtraGraphicsSettings",
+	"description": "A mod that adds more options for graphical things.",
+	"tags": "DisableVignette, WeaponCrosshair, EnableStatusBarPercentages,FreeLookInCars",
+	"categories": [
+		"Gameplay"
+	],
+	"gameversion": [
+		"vanilla",
+		"tftft"
+	],
+	"images": [],
+	"dependencies": [
+		"ModSettings"
+	],
+	"status": {
+		"working": true,
+		"beta": false,
+		"patchnotes": "",
+		"notes": "This mod makes Disable Chromatic Aberration, Enable Status Bar Percentages, Free Look In Cars and Weapon Crosshair obsolete",
+		"issues": ""
+	},
+	"testedon": {
+		"tldversion": "2.23",
+		"mlversion": "0.6.1"
+	},
+	"updater": {
+		"enable": true,
+		"downloads": [
+			"https://github.com/Arkhorse/ExtraGraphicsSettings/releases/latest/download/ExtraGraphicsSettings.dll"
+		]
+	},
+	"aliases": [
+		"DisableVignette",
+		"EnableStatusBarPercentages",
+		"FreeLookInCars",
+		"WeaponCrosshair"
+	]
+}

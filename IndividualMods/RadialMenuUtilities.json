@@ -1,0 +1,43 @@
+{
+	"type": "library",
+	"version": "1.1.1",
+	"name": "RadialMenuUtilities",
+	"displayName": "Radial Menu Utilities",
+	"author": "",
+	"previousAuthors": "ds5678",
+	"released": "",
+	"updated": "2023-10-02",
+	"downloadURL": "https://github.com/Arkhorse/RadialMenuUtilities/releases/latest/download/RadialMenuUtilities.dll",
+	"modURL": "https://github.com/Arkhorse/RadialMenuUtilities",
+	"description": "A utility mod that adds the ability for other mods to create custom radial menus.",
+	"tags": "",
+	"categories": [
+		"Gameplay"
+	],
+	"gameversion": [
+		"vanilla",
+		"tftft"
+	],
+	"images": [],
+	"dependencies": [
+		"KeyboardUtilities"
+	],
+	"status": {
+		"working": true,
+		"beta": false,
+		"patchnotes": "",
+		"notes": "",
+		"issues": ""
+	},
+	"testedon": {
+		"tldversion": "2.22",
+		"mlversion": "0.6.1"
+	},
+	"updater": {
+		"enable": true,
+		"downloads": [
+			"https://github.com/Arkhorse/RadialMenuUtilities/releases/latest/download/RadialMenuUtilities.dll"
+		]
+	},
+	"aliases": []
+}
