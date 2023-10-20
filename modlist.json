@@ -49,13 +49,13 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.1.001",
+			"version": "1.1.2",
 			"name": "ExtraGraphicsSettings",
 			"displayName": "Extra Graphics Settings",
 			"author": "",
 			"previousAuthors": "",
-			"released": "2023/07/15",
-			"updated": "2023-10-02",
+			"released": "2023-07-15",
+			"updated": "2023-10-20",
 			"downloadURL": "https://github.com/Arkhorse/ExtraGraphicsSettings/releases/latest/download/ExtraGraphicsSettings.dll",
 			"modURL": "https://github.com/Arkhorse/ExtraGraphicsSettings",
 			"description": "A mod that adds more options for graphical things.",
@@ -79,7 +79,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.23",
+				"tldversion": "2.24",
 				"mlversion": "0.6.1"
 			},
 			"updater": {
