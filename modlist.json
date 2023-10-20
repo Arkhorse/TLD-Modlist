@@ -88,12 +88,7 @@
 					"https://github.com/Arkhorse/ExtraGraphicsSettings/releases/latest/download/ExtraGraphicsSettings.dll"
 				]
 			},
-			"aliases": [
-				"DisableVignette",
-				"EnableStatusBarPercentages",
-				"FreeLookInCars",
-				"WeaponCrosshair"
-			]
+			"aliases": []
 		},
 		{
 			"type": "mod",
@@ -133,9 +128,7 @@
 					"https://github.com/Arkhorse/ExtremeTempDrop/releases/latest/download/ExtremeTempDrop.dll"
 				]
 			},
-			"aliases": [
-				"ExtremeTempDrop"
-			]
+			"aliases": []
 		},
 		{
 			"type": "mod",
@@ -231,9 +224,7 @@
 					"https://github.com/Arkhorse/FuelManager/releases/latest/download/FuelManager.modcomponent"
 				]
 			},
-			"aliases": [
-				"Better-Fuel-Management"
-			]
+			"aliases": []
 		},
 		{
 			"type": "mod",
