@@ -313,6 +313,47 @@
 			"aliases": []
 		},
 		{
+			"type": "mod",
+			"version": "1.0.1",
+			"name": "SkillManager",
+			"displayName": "Skill Manager",
+			"author": "",
+			"previousAuthors": "",
+			"released": "2023-10-20",
+			"updated": "2023-10-20",
+			"downloadURL": "https://github.com/Arkhorse/SkillManager/releases/latest/download/SkillManager.dll",
+			"modURL": "https://github.com/Arkhorse/SkillManager",
+			"description": "",
+			"tags": "",
+			"categories": [
+				"Quality of Life"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.24",
+				"mlversion": "0.6.1"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
 			"type": "library",
 			"version": "1.1.1",
 			"name": "RadialMenuUtilities",
