@@ -175,16 +175,16 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.2.7",
+			"version": "1.2.8",
 			"name": "FuelManager",
 			"displayName": "Fuel Manager",
 			"author": "",
 			"previousAuthors": "ds5678",
 			"released": "2023-05-12",
-			"updated": "2023-10-02",
+			"updated": "2023-10-24",
 			"downloadURL": "https://github.com/Arkhorse/FuelManager/releases",
 			"modURL": "https://github.com/Arkhorse/FuelManager",
-			"description": "Fuel Manager adds QOL features to assist with managing various fuel items. This includes all features of Better-Fuel-Management",
+			"description": "Fuel Manager adds QOL features to assist with managing various fuel items. This includes all features of Better-Fuel-Management.",
 			"tags": "Better-Fuel-Management",
 			"categories": [
 				"Quality of Life",
@@ -209,20 +209,17 @@
 			"status": {
 				"working": true,
 				"beta": false,
-				"patchnotes": "Removed RMU properly",
+				"patchnotes": "Added the ability to refuel the lamps with a hotkey (Default is R). This can be changed in the mod settings. The feature is disabled by default",
 				"notes": "",
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.23",
+				"tldversion": "2.24",
 				"mlversion": "0.6.1"
 			},
 			"updater": {
-				"enable": true,
-				"downloads": [
-					"https://github.com/Arkhorse/FuelManager/releases/latest/download/FuelManager.dll",
-					"https://github.com/Arkhorse/FuelManager/releases/latest/download/FuelManager.modcomponent"
-				]
+				"enable": false,
+				"downloads": []
 			},
 			"aliases": []
 		},
