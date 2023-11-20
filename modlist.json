@@ -433,6 +433,42 @@
 				]
 			},
 			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.0.0",
+			"name": "How To Read",
+			"displayName": "",
+			"author": "",
+			"previousAuthors": "",
+			"released": "2023-11-19",
+			"updated": "2023-11-19",
+			"downloadURL": "https://github.com/Arkhorse/HowToRead/releases/latest.HowToRead.dll",
+			"modURL": "https://github.com/Arkhorse/HowToRead",
+			"description": "This mod is intended to catch users that do not read. This mod shouldnt be installed. If you are reading this, then you passed the test.",
+			"tags": "",
+			"categories": [],
+			"gameversion": [
+				"vanilla"
+			],
+			"images": [],
+			"dependencies": [],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.24",
+				"mlversion": "0.6.1"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
 		}
 	]
 }
