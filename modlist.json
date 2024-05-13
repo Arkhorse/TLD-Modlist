@@ -269,16 +269,16 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.0.1",
+			"version": "1.0.4",
 			"name": "SaveManager",
 			"displayName": "Save Manager",
 			"author": "",
 			"previousAuthors": "",
 			"released": "2023-10-20",
-			"updated": "2023-10-20",
+			"updated": "2024-05-11",
 			"downloadURL": "https://github.com/Arkhorse/SaveManager/releases/latest/download/SaveManager.dll",
 			"modURL": "https://github.com/Arkhorse/SaveManager",
-			"description": "",
+			"description": "Adds the ability to save, load and autosave in Sandbox/Survival",
 			"tags": "",
 			"categories": [
 				"Quality of Life"
@@ -294,12 +294,12 @@
 			"status": {
 				"working": true,
 				"beta": false,
-				"patchnotes": "",
+				"patchnotes": "Added autosave and load functionalities",
 				"notes": "",
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.24",
+				"tldversion": "2.27",
 				"mlversion": "0.6.1"
 			},
 			"updater": {
