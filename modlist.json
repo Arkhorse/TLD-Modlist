@@ -217,7 +217,7 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.2.10",
+			"version": "1.2.11",
 			"name": "FuelManager",
 			"displayName": "Fuel Manager",
 			"author": "",
@@ -252,12 +252,12 @@
 			"status": {
 				"working": true,
 				"beta": false,
-				"patchnotes": "Minor update to fix a missing GearItem ref",
+				"patchnotes": "",
 				"notes": "",
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.27",
+				"tldversion": "2.29",
 				"mlversion": "0.6.1"
 			},
 			"updater": {
