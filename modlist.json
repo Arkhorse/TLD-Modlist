@@ -439,6 +439,49 @@
 			"aliases": []
 		},
 		{
+			"type": "mod",
+			"version": "1.0.5",
+			"name": "StackManager",
+			"displayName": "Stack Manager",
+			"author": "",
+			"previousAuthors": "",
+			"released": "2024-06-02",
+			"updated": "2024-06-02",
+			"downloadURL": "https://github.com/Arkhorse/StackManager/releases/latest/download/Sprainkle.dll",
+			"modURL": "https://github.com/Arkhorse/StackManager",
+			"description": "Adds stacking to more stuff",
+			"tags": "",
+			"categories": [
+				"Quality of Life",
+				"Gameplay"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [],
+			"dependencies": [
+				"ModSettings",
+				"ComplexLogger"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.30",
+				"mlversion": "0.6.1"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
 			"type": "library",
 			"version": "1.1.1",
 			"name": "RadialMenuUtilities",
