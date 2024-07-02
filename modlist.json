@@ -313,7 +313,7 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.0.5",
+			"version": "1.0.7",
 			"name": "SaveManager",
 			"displayName": "Save Manager",
 			"author": "",
