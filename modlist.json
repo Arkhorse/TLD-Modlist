@@ -50,13 +50,13 @@
 		},
 		{
 			"type": "library",
-			"version": "1.0.3",
+			"version": "1.0.5",
 			"name": "ComplexLogger",
 			"displayName": "Complex Logger",
 			"author": "",
 			"previousAuthors": "",
 			"released": "2024-05-29",
-			"updated": "2024-05-29",
+			"updated": "2024-07-08",
 			"downloadURL": "https://github.com/Arkhorse/Complex-Logger/releases/latest/download/ComplexLogger.dll",
 			"modURL": "https://github.com/Arkhorse/Complex-Logger",
 			"description": "A mod that adds more complex logging to the game",
@@ -111,7 +111,8 @@
 			],
 			"images": [],
 			"dependencies": [
-				"ModSettings"
+				"ModSettings",
+				"ComplexLogger"
 			],
 			"status": {
 				"working": true,
@@ -151,7 +152,8 @@
 			"gameversion": [],
 			"images": [],
 			"dependencies": [
-				"ModSettings"
+				"ModSettings",
+				"ComplexLogger"
 			],
 			"status": {
 				"working": true,
@@ -196,7 +198,8 @@
 				"https://raw.githubusercontent.com/Arkhorse/TLD-Modlist/main/Images/FasterHarvesting/Fir%20Limb.jpg"
 			],
 			"dependencies": [
-				"ModSettings"
+				"ModSettings",
+				"ComplexLogger"
 			],
 			"status": {
 				"working": true,
@@ -447,7 +450,7 @@
 			"previousAuthors": "",
 			"released": "2024-06-02",
 			"updated": "2024-06-02",
-			"downloadURL": "https://github.com/Arkhorse/StackManager/releases/latest/download/Sprainkle.dll",
+			"downloadURL": "https://github.com/Arkhorse/StackManager/releases/latest/download/StackManager.dll",
 			"modURL": "https://github.com/Arkhorse/StackManager",
 			"description": "Adds stacking to more stuff",
 			"tags": "",
@@ -503,7 +506,8 @@
 			],
 			"images": [],
 			"dependencies": [
-				"KeyboardUtilities"
+				"KeyboardUtilities",
+				"ComplexLogger"
 			],
 			"status": {
 				"working": false,
@@ -533,7 +537,7 @@
 			"previousAuthors": "",
 			"released": "2023-11-19",
 			"updated": "2023-11-19",
-			"downloadURL": "https://github.com/Arkhorse/HowToRead/releases/latest.HowToRead.dll",
+			"downloadURL": "https://github.com/Arkhorse/HowToRead/releases/latest/download/HowToRead.dll",
 			"modURL": "https://github.com/Arkhorse/HowToRead",
 			"description": "This mod is intended to catch users that do not read. This mod shouldnt be installed. If you are reading this, then you passed the test.",
 			"tags": "",
