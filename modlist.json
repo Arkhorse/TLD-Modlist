@@ -6,14 +6,14 @@
 	"mods": [
 		{
 			"type": "mod",
-			"version": "1.0.0",
+			"version": "1.3.0",
 			"name": "AuroraMonitor",
 			"displayName": "Aurora Monitor",
 			"author": "",
 			"previousAuthors": "",
 			"released": "2023-08-29",
-			"updated": "2023-10-02",
-			"downloadURL": "https://github.com/Arkhorse/AuroraMonitor/releases/latest/download/AuroraMonitor.dll",
+			"updated": "2024-10-14",
+			"downloadURL": "https://github.com/Arkhorse/AuroraMonitor/releases/latest/download/AuroraMonitor-1.3.0.7z",
 			"modURL": "https://github.com/Arkhorse/AuroraMonitor",
 			"description": "A WIP mod that currently allows you to manage Aurorae and will show you a notification when the weather changes",
 			"tags": "",
@@ -39,7 +39,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.23",
+				"tldversion": "2.32",
 				"mlversion": "0.6.1"
 			},
 			"updater": {
