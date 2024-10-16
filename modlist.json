@@ -482,7 +482,9 @@
 				"enable": true,
 				"downloads": []
 			},
-			"aliases": []
+			"aliases": [
+				"Better-Stacking"
+			]
 		},
 		{
 			"type": "library",
