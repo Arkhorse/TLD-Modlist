@@ -267,7 +267,9 @@
 				"enable": false,
 				"downloads": []
 			},
-			"aliases": []
+			"aliases": [
+				"Better-Fuel-Management"
+			]
 		},
 		{
 			"type": "mod",
