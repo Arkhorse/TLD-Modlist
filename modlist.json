@@ -25,7 +25,8 @@
 			],
 			"gameversion": [],
 			"images": [
-				"https://raw.githubusercontent.com/Arkhorse/TLD-Modlist/main/Images/AuroraMonitor/BleakInlet-Pensive-Lookout-Colours.jpg"
+				"https://raw.githubusercontent.com/Arkhorse/TLD-Modlist/main/Images/AuroraMonitor/BleakInlet-Pensive-Lookout-Colours.jpg",
+				"https://raw.githubusercontent.com/Arkhorse/TLD-Modlist/main/Images/AuroraMonitor/WeatherDisplay.jpg"
 			],
 			"dependencies": [
 				"ModSettings",
