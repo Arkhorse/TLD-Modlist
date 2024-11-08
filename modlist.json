@@ -45,7 +45,9 @@
 			},
 			"updater": {
 				"enable": true,
-				"downloads": []
+				"downloads": [
+					"AuroraMonitor.7z"
+				]
 			},
 			"aliases": []
 		},
