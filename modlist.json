@@ -15,7 +15,7 @@
 			"updated": "2024-10-14",
 			"downloadURL": "https://github.com/Arkhorse/AuroraMonitor/releases/latest/download/AuroraMonitor.7z",
 			"modURL": "https://github.com/Arkhorse/AuroraMonitor",
-			"description": "A WIP mod that currently allows you to manage Aurorae and will show you a notification when the weather changes",
+			"description": "A WIP mod that will eventually allow full control of weather. Currently allows control of Aurorae and will show weather stats in the First Aid screen",
 			"tags": "",
 			"categories": [
 				"Quality of Life",
