@@ -53,13 +53,13 @@
 		},
 		{
 			"type": "library",
-			"version": "1.0.5",
+			"version": "1.0.6",
 			"name": "ComplexLogger",
 			"displayName": "Complex Logger",
 			"author": "",
 			"previousAuthors": "",
 			"released": "2024-05-29",
-			"updated": "2024-07-08",
+			"updated": "2024-12-03",
 			"downloadURL": "https://github.com/Arkhorse/Complex-Logger/releases/latest/download/ComplexLogger.dll",
 			"modURL": "https://github.com/Arkhorse/Complex-Logger",
 			"description": "A mod that adds more complex logging to the game",
@@ -83,8 +83,8 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.27",
-				"mlversion": "0.6.1"
+				"tldversion": "2.33",
+				"mlversion": "0.6.6"
 			},
 			"updater": {
 				"enable": true,
