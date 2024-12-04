@@ -321,7 +321,7 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.0.8",
+			"version": "1.0.9",
 			"name": "SaveManager",
 			"displayName": "Save Manager",
 			"author": "",
