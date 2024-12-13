@@ -223,13 +223,13 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.2.12",
+			"version": "1.2.14",
 			"name": "FuelManager",
 			"displayName": "Fuel Manager",
 			"author": "",
 			"previousAuthors": "ds5678",
 			"released": "2023-05-12",
-			"updated": "2024-06-29",
+			"updated": "2024-12-12",
 			"downloadURL": "https://github.com/Arkhorse/FuelManager/releases",
 			"modURL": "https://github.com/Arkhorse/FuelManager",
 			"description": "Fuel Manager adds QOL features to assist with managing various fuel items. This includes all features of Better-Fuel-Management.",
@@ -263,14 +263,15 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.30",
-				"mlversion": "0.6.1"
+				"tldversion": "2.35",
+				"mlversion": "0.6.6"
 			},
 			"updater": {
 				"enable": false,
 				"downloads": []
 			},
-			"aliases": [
+			"aliases": [],
+			"replaces": [
 				"Better-Fuel-Management"
 			]
 		},
