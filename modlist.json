@@ -605,7 +605,8 @@
 			],
 			"images": [],
 			"dependencies": [
-				"ComplexLogger"
+				"ComplexLogger",
+				"ModSettings"
 			],
 			"status": {
 				"working": true,
