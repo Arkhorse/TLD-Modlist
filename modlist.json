@@ -582,6 +582,48 @@
 			},
 			"aliases": [],
 			"replaces": []
+		},
+		{
+			"type": "mod",
+			"version": "1.1.0",
+			"name": "VitaminCTracker",
+			"displayName": "Vitamin C Tracker",
+			"author": "",
+			"previousAuthors": "",
+			"released": "2024-12-13",
+			"updated": "2024-12-13",
+			"downloadURL": "https://github.com/Arkhorse/VitaminCTracker/releases/latest/download/VitaminCTracker.dll",
+			"modURL": "https://github.com/Arkhorse/VitaminCTracker",
+			"description": "Finally know how much Vitamin C you have! No longer will you live in ignorance",
+			"tags": "",
+			"categories": [
+				"Gameplay"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [],
+			"dependencies": [
+				"ComplexLogger"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.35",
+				"mlversion": "0.6.6"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": [],
+			"replaces": []
 		}
 	]
 }
