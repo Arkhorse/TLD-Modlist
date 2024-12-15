@@ -228,13 +228,13 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.2.14",
+			"version": "1.2.15",
 			"name": "FuelManager",
 			"displayName": "Fuel Manager",
 			"author": "",
 			"previousAuthors": "ds5678",
 			"released": "2023-05-12",
-			"updated": "2024-12-12",
+			"updated": "2024-12-15",
 			"downloadURL": "https://github.com/Arkhorse/FuelManager/releases",
 			"modURL": "https://github.com/Arkhorse/FuelManager",
 			"description": "Fuel Manager adds QOL features to assist with managing various fuel items. This includes all features of Better-Fuel-Management.",
@@ -262,10 +262,10 @@
 			],
 			"status": {
 				"working": true,
-				"beta": false,
+				"beta": true,
 				"patchnotes": "",
 				"notes": "",
-				"issues": ""
+				"issues": "Currently unable to add harvesting nor repairing to vanilla items. Cause is currently unknown"
 			},
 			"testedon": {
 				"tldversion": "2.35",
