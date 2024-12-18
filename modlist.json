@@ -282,13 +282,13 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.1.6",
+			"version": "1.1.7",
 			"name": "MapManager",
 			"displayName": "Map Manager",
 			"author": "",
 			"previousAuthors": "",
 			"released": "2023-05-27",
-			"updated": "2024-06-17",
+			"updated": "2024-12-18",
 			"downloadURL": "https://github.com/Arkhorse/MapManager/releases/latest/download/MapManager.dll",
 			"modURL": "https://github.com/Arkhorse/MapManager",
 			"description": "Show Player Arrow\nCenter on player\nReveal Map\nSurvey Mapping Options:\n- Modify Range\n- Modify Surveying Time\n- Automatic use of Polaroid's (even if you don't have them)\nAutomatically add corpses to the map",
@@ -314,8 +314,8 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.27",
-				"mlversion": "0.6.1"
+				"tldversion": "2.38",
+				"mlversion": "0.6.6"
 			},
 			"updater": {
 				"enable": true,
