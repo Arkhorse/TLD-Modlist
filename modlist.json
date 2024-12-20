@@ -367,7 +367,10 @@
 				"downloads": []
 			},
 			"aliases": [],
-			"replaces": []
+			"replaces": [
+				"SaveAnywhere",
+				"QuickSave"
+			]
 		},
 		{
 			"type": "mod",
