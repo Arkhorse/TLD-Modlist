@@ -106,7 +106,7 @@
 			"downloadURL": "https://github.com/Arkhorse/ExtraGraphicsSettings/releases/latest/download/ExtraGraphicsSettings.dll",
 			"modURL": "https://github.com/Arkhorse/ExtraGraphicsSettings",
 			"description": "A mod that adds more options for graphical things.",
-			"tags": "DisableVignette, WeaponCrosshair, EnableStatusBarPercentages,FreeLookInCars",
+			"tags": "DisableVignette, WeaponCrosshair, EnableStatusBarPercentages, FreeLookInCars",
 			"categories": [
 				"Gameplay"
 			],
@@ -137,7 +137,12 @@
 				]
 			},
 			"aliases": [],
-			"replaces": []
+			"replaces": [
+				"DisableVignette",
+				"WeaponCrosshair",
+				"EnableStatusBarPercentages",
+				"FreeLookInCars"
+			]
 		},
 		{
 			"type": "mod",
@@ -292,7 +297,7 @@
 			"downloadURL": "https://github.com/Arkhorse/MapManager/releases/latest/download/MapManager.dll",
 			"modURL": "https://github.com/Arkhorse/MapManager",
 			"description": "Show Player Arrow\nCenter on player\nReveal Map\nSurvey Mapping Options:\n- Modify Range\n- Modify Surveying Time\n- Automatic use of Polaroid's (even if you don't have them)\nAutomatically add corpses to the map",
-			"tags": "",
+			"tags": "MapTweaks",
 			"categories": [
 				"Quality of Life",
 				"Gameplay"
@@ -324,7 +329,9 @@
 				]
 			},
 			"aliases": [],
-			"replaces": []
+			"replaces": [
+				"MapTweaks"
+			]
 		},
 		{
 			"type": "mod",
